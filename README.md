@@ -64,3 +64,9 @@ python3 main.py
 * Pokemon do not despawn after a given amount of time.
 * There is no functionality for ordering a trainer's Pokemon.
 * No command exists to get data on a certain Pokemon.
+
+---
+
+##Contributors
+
+* Ryan Tsukamoto - ryantsukamoto@yahoo.com
